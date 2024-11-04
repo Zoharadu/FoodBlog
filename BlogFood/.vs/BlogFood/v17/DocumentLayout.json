@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9484CF8A-A8C7-4028-8D10-A771E538082D}|Repository\\Repository.csproj|c:\\users\\zohar\\desktop\\blogfood\\blogfood\\repository\\impl\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484CF8A-A8C7-4028-8D10-A771E538082D}|Repository\\Repository.csproj|solutionrelative:repository\\impl\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9484CF8A-A8C7-4028-8D10-A771E538082D}|Repository\\Repository.csproj|c:\\users\\zohar\\desktop\\blogfood\\blogfood\\repository\\interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9484CF8A-A8C7-4028-8D10-A771E538082D}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFDA704-A9F6-4521-9FA1-4F6773204977}|Service\\Service.csproj|c:\\users\\zohar\\desktop\\blogfood\\blogfood\\service\\impl\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CFDA704-A9F6-4521-9FA1-4F6773204977}|Service\\Service.csproj|solutionrelative:service\\impl\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DA0A83-B837-4418-83E3-5A5E25A53132}|BlogFood\\BlogFood.csproj|c:\\users\\zohar\\desktop\\blogfood\\blogfood\\blogfood\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DA0A83-B837-4418-83E3-5A5E25A53132}|BlogFood\\BlogFood.csproj|solutionrelative:blogfood\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DA0A83-B837-4418-83E3-5A5E25A53132}|BlogFood\\BlogFood.csproj|c:\\users\\zohar\\desktop\\blogfood\\blogfood\\blogfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DA0A83-B837-4418-83E3-5A5E25A53132}|BlogFood\\BlogFood.csproj|solutionrelative:blogfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\BlogFood\\Program.cs",
+              "RelativeDocumentMoniker": "BlogFood\\Program.cs",
+              "ToolTip": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\BlogFood\\Program.cs",
+              "RelativeToolTip": "BlogFood\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:43:05.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\BlogFood\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "BlogFood\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\BlogFood\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "BlogFood\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:27:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\Service\\Impl\\CommentService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\CommentService.cs",
+              "ToolTip": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\Service\\Impl\\CommentService.cs",
+              "RelativeToolTip": "Service\\Impl\\CommentService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAApwBoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:05:41.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\Repository\\Interface\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\Repository\\Interface\\ICommentRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:07:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\Repository\\Impl\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Impl\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\zohar\\Desktop\\BlogFood\\BlogFood\\Repository\\Impl\\CommentRepository.cs",
+              "RelativeToolTip": "Repository\\Impl\\CommentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:08:01.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
